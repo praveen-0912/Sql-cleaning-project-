@@ -1,4 +1,6 @@
 # Sql-cleaning-project- (Data Analyst)
+
+ 
 ## queries in sql to cleaning purpose 
 
 create database clean;
