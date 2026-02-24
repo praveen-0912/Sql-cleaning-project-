@@ -1,0 +1,211 @@
+Sale_ID,order_date,Customer_Name,Region,Product_Name,Quantity,Unit_Price,Total_Amount,Payment_Method,Delivery_Status,,City,Pincode
+31,12-08-2024,Pooja T,North,Chair,two,21542.02,44526.02,UPI,Canceled,,Hyderabad,500001
+173,12-09-2024,Pooja M,South,Smartphone,8,30240.21,195127.77,Online,Pending,,hyderabad,
+85,12-10-2024,Priya R,West,Tablet,9,4678.18,33727.96,,delivered,,HYDERABAD,500002
+200,12-11-2024,Rahul M,West,Monitor,5,23223.66,124878.89,Cahs,Delivereed,,Hyd,
+61,12-12-2024,Anita S,NORTH,Keyboard,one,20054,21408.64,,Pending,,Hyderabad,500001
+156,12/13/2024,Sneha P  ,South,Mouse,3,2917.96,9480.88,Online,delivered,,Chennai,600001
+46,12/14/2024,Amit K,NORTH,Chair,4,13481.4,58429.15,Online,,,chennai,
+183,12/15/2024,Sneha K,South,Printer,5,16018.3,83379.15,Card,PENDING,,CHENNAI,600002
+10,12/16/2024,Anita P,,Monitor,8,8000.71,54779.4,Online,Canceled,,Chen nai,
+197,12/17/2024,Anita P,west,Tablet,5,31106.99,130240.51,Online,delivered,,Chennai,600001
+137,12/18/2024,Priya S,EAST,Smartphone,5,29130.9,163553.77,Online,delivered,,Bangalore,560001
+188,12/19/2024,Anita K  ,North,Tablet,8,26369.52,245851.9,UPI,,,bengaluru,
+171,12/20/2024,Divya T,North,Smartphone,one,13540.27,15354.47,,delivered,,Bengaluru,560002
+127,12/21/2024,Anita T,EAST,Laptop,3,14003.01,35737.23,Online,Delivered,,Banglore,
+16,12/22/2024,Sneha M,North,Smartphone,6,44057.37,299413.77,Card,Delivered,,Bangalore,560001
+74,12/23/2024,Rahul T,North,Mouse,4,5195.04,22609.43,Online,,,Mumbai,400001
+166,12/24/2024,Rahul M,NORTH,Tablet,4,40261.7,137752.9,Cash,PENDING,,mumbai,
+19,12/25/2024,Anita P,west,Monitor,6,22466.9,135749.1,Card,Pending,,Mumbai City,400002
+169,12/26/2024,Amit S,West,Monitor,two,19370.72,31429.96,,PENDING,,Mum bai,
+94,12/27/2024,Ravi P,,Monitor,one,10191.54,9628.07,,Delivereed,,Mumbai,400001
+76,12/28/2024,Anita S,EAST,Keyboard,9,27015.17,235891.43,UPI,Canceled,,Delhi,110001
+56,12/29/2024,Kiran P,,Keyboard,5,37837.06,214904.12,Online,Delivereed,,delhi,
+148,12/30/2024,Sneha K,NORTH,Smartphone,4,22348.15,85832.98,Cahs,,,New Delhi,110002
+110,12/31/2024,Amit R,South,Keyboard,6,49394.93,272559.75,,Canceled,,Delhi NCR,
+109,01-01-2025,Kiran R,,Smartwatch,8,13511.01,86876.76,UPI,PENDING,,Delhi,110001
+143,01-02-2025,Rahul P,,Mouse,5,3225.45,15451.6,Cash,Delivered,,Pune,411001
+26,01-03-2025,Anita R,NORTH,Keyboard,8,11473.62,88155.6,Card,Delivereed,,pune,
+126,01-04-2025,Kiran R,west,Tablet,two,33391.82,54115.59,UPI,,,Poona,411002
+17,01-05-2025,Anita T,South,Smartphone,8,40985.14,390569.96,Card,Pending,,Pune City,
+174,01-06-2025,Kiran S,NORTH,Laptop,one0,18287.99,188049.09,,PENDING,,Pune,411001
+193,01-07-2025,Divya T,East,Chair,two,4221.66,8099.37,Online,Delivereed,,Kolkata,700001
+70,01-08-2025,Sneha K,NORTH,Keyboard,two,22242.65,42033.06,,Pending,,kolkata,
+102,01-09-2025,Divya P,NORTH,Monitor,3,25271.1,61773.27,Online,Canceled,,Calcutta,700002
+68,01-10-2025,Manish M,West,Smartphone,one0,34840.11,366133.66,,,,Kolk ata,
+105,01-11-2025,Divya T,North,Chair,two,12503.74,26852.03,Card,PENDING,,Kolkata,700001
+133,01-12-2025,Priya S,NORTH,Printer,5,19340.75,83267.3,Cash,Delivered,,Ahmedabad,380001
+181,1/13/2025,Sneha M,NORTH,Keyboard,7,17612.79,107844.67,UPI,,,Ahemdabad,
+96,1/14/2025,Pooja R,East,Smartwatch,9,1670.05,14477.27,Cash,Delivereed,,AHMEDABAD,380002
+83,1/15/2025,Amit M,West,Mouse,7,23075.21,157825.64,Cahs,Canceled,,Ahmedabad City,
+160,1/16/2025,Priya S,NORTH,Printer,3,33835.7,114863.77,Cash,PENDING,,Ahmedabad,380001
+198,1/17/2025,Kiran R,EAST,Chair,one,41436.58,33619.54,,,,Jaipur,302001
+163,1/18/2025,Ravi P,EAST,Chair,3,30265.08,78238.36,,,,jaipur,
+151,1/19/2025,Priya R,,Keyboard,one0,38233.98,374525.58,,PENDING,,Jaipur City,302002
+97,1/20/2025,Priya P,East,Keyboard,5,25934.73,117921.32,Cahs,Pending,,Jai pur,
+96,1/21/2025,Pooja R,East,Smartwatch,9,1670.05,14477.27,Cash,Delivereed,,Jaipur,302001
+69,1/22/2025,Rahul P,South,Chair,one,18012.98,17496.93,Cash,delivered,,Kochi,682001
+157,1/23/2025,,EAST,Printer,5,19983.41,110886.53,Cash,,,cochin,
+87,1/24/2025,Anita S,West,Monitor,two,27683.56,58636.76,Card,Delivered,,Kochin,682002
+101,1/25/2025,Anita P,West,Chair,7,12444.56,96713.2,UPI,PENDING,,Kochi City,
+39,1/26/2025,Kiran T,North,Printer,one0,28073.73,272852.7,UPI,Canceled,,Kochi,682001
+25,1/27/2025,Anita K,,Mouse,two,3478.83,8347.2,Cash,,,Indore,452001
+184,1/28/2025,Divya S  ,,Laptop,6,31127.72,181905.95,Cash,PENDING,,indore,
+118,1/29/2025,Divya S,west,Chair,7,41298.45,340002.59,,Pending,,Indore City,452002
+30,1/30/2025,Priya R,South,Chair,two,34085.42,60950.29,Online,Pending,,Indo re,
+20,1/31/2025,Priya S,North,Chair,9,12275.62,98116.36,,PENDING,,Indore,452001
+136,02-01-2025,Rahul T,west,Printer,two,29318.01,51898.48,Card,,,Bhopal,462001
+140,02-02-2025,Anita M,NORTH,Keyboard,6,8713.05,48339.39,Online,delivered,,bhopal,
+67,02-03-2025,Pooja P,South,Tablet,5,6296.84,25510.75,Online,PENDING,,Bhopal City,462002
+66,02-04-2025,Divya P,South,Chair,4,23786.67,85869.64,Card,delivered,,Bho pal,
+6,02-05-2025,Pooja S,West,Smartphone,one,33401.9,37050.3,Card,,,Bhopal,462001
+147,02-06-2025,Manish S,South,Monitor,one,48343.78,41998.62,Cahs,,,Nagpur,440001
+57,02-07-2025,Anita S,,Smartphone,5,12490.19,58350.36,Cash,Pending,,nagpur,
+98,02-08-2025,Divya T,East,Monitor,4,46171.54,185294.95,Cash,Canceled,,Nagpur City,440002
+129,02-09-2025,Amit S,,Laptop,one,49930.75,56867.1,,Delivered,,Nag pur,
+80,02-10-2025,Ravi K,west,Tablet,8,6026.79,38808,Cahs,Delivereed,,Nagpur,440001
+116,02-11-2025,Rahul R,west,Keyboard,5,37581.41,175784.43,Cahs,Delivered,,Coimbatore,641001
+175,02-12-2025,Priya T,EAST,Smartphone,9,27660.02,277460,Online,Delivered,,coimbatore,
+32,2/13/2025,Anita P,EAST,Headphones,5,20393.51,108970.28,Cahs,Canceled,,Kovai,641002
+13,2/14/2025,Rahul T,North,Smartphone,9,37793.01,376681.25,Cash,Canceled,,Coimba tore,
+36,2/15/2025,Priya P,East,Smartwatch,5,30636.66,166517.12,,PENDING,,Coimbatore,641001
+29,2/16/2025,Sneha K,North,Chair,8,25639.67,234056.95,Cash,delivered,,Vijayawada,520001
+43,2/17/2025,Divya S,west,Headphones,4,2159.56,7577.91,UPI,,,vijayawada,
+116,2/18/2025,Rahul R,west,Keyboard,5,37581.41,175784.43,Cahs,Delivered,,Vijay wada,520002
+99,2/19/2025,Manish S,west,Laptop,5,36576.5,207569.88,,Delivereed,,Bezawada,
+144,2/20/2025,Anita S,West,Tablet,5,15182.91,64375.06,,Delivereed,,Vijayawada,520001
+52,2/21/2025,Ravi R,,Chair,two,23315.39,53833.13,Card,PENDING,,Vizag,530001
+119,2/22/2025,Divya K  ,EAST,Chair,4,32734.97,138031.79,,Canceled,,Visakhapatnam,
+171,2/23/2025,Divya T,North,Smartphone,one,13540.27,15354.47,,delivered,,VISAKHAPATNAM,530002
+77,2/24/2025,Divya S,west,Smartwatch,4,6912.14,24248.72,,delivered,,Visakha patnam,
+42,2/25/2025,Anita S,East,Smartphone,7,43736.17,350066.98,Card,,,Vizag,530001
+159,2/26/2025,Priya T,East,Printer,5,48417.13,261305.31,Card,delivered,,Trichy,620001
+79,2/27/2025,Priya R,west,Headphones,6,9792.64,47337.19,Card,Canceled,,Tiruchirapalli,
+125,2/28/2025,Amit R,West,Headphones,6,38944.06,260642.66,Cash,Canceled,,TRICHY,620002
+27,03-01-2025,,west,Keyboard,5,21727.37,128509.47,,PENDING,,Tri chy,
+141,03-02-2025,Priya K,East,Tablet,one0,3438.36,28628.91,,Delivereed,,Trichy,620001
+179,03-03-2025,Ravi R,North,Printer,5,26253.8,156951.66,Cahs,Canceled,,Madurai,625001
+123,03-04-2025,Sneha K,EAST,Mouse,6,3966.95,21667.94,Cahs,Delivered,,madura i,
+3,03-05-2025,Amit M,West,Keyboard,one0,14631.34,167926.83,,Delivereed,,MADURAI,625002
+78,03-06-2025,Kiran R,West,Keyboard,5,36504.67,217320.11,Online,Canceled,,Madurai City,
+47,03-07-2025,Amit P,West,Printer,7,4428.72,33037.66,Online,Canceled,,Madurai,625001
+128,03-08-2025,Priya M,,Printer,9,30089.63,265607.77,Online,Delivered,,Warangal,506001
+113,03-09-2025,Divya S,West,Chair,6,11731.22,61663.01,,,,warangal,
+91,03-10-2025,Kiran M,,Smartwatch,3,49850.33,145715.6,Cash,Delivereed,,Orugallu,506002
+86,03-11-2025,Divya S,North,Headphones,5,35640.84,192673.49,Cash,PENDING,,Wara ngal,
+142,03-12-2025,Divya T,,Monitor,5,11562.88,58099.92,Cahs,Delivered,,Warangal,506001
+37,3/13/2025,Rahul T  ,,Smartwatch,one,5522.62,5353.8,Cash,Delivered,,Guntur,522001
+120,3/14/2025,Manish K,East,Laptop,one,15913.86,15866.91,Card,delivered,,guntur,
+62,3/15/2025,Divya R,North,Monitor,one0,28655.21,232348.14,Card,,,Gun tur,522002
+23,3/16/2025,Sneha M,NORTH,Keyboard,one,33994.86,40578.51,Cash,Delivereed,,Guntur City,
+139,3/17/2025,,NORTH,Smartphone,3,37307.48,133044.9,,delivered,,Guntur,522001
+112,3/18/2025,Rahul K,NORTH,Smartwatch,one,28730.52,30865.77,Online,PENDING,,City,Pincode
+34,3/19/2025,Kiran S,South,Headphones,6,14964.38,87566.21,,Canceled,,Hyderabad,500001
+12,3/20/2025,Ravi K,East,Tablet,7,30224.04,201816.45,Cahs,delivered,,hyderabad,
+129,3/21/2025,Amit S,,Laptop,one,49930.75,56867.1,,Delivered,,HYDERABAD,500002
+168,3/22/2025,Kiran M,South,Headphones,8,44346.86,415863.13,Cash,Delivereed,,Hyd,
+7,3/23/2025,,west,Keyboard,6,8970.05,50704.55,,PENDING,,Hyderabad,500001
+28,3/24/2025,Divya R,West,Smartwatch,4,48466.76,200007.22,Cash,PENDING,,Chennai,600001
+172,3/25/2025,Amit M,South,Smartwatch,4,15756.41,51624.29,,,,chennai,
+16,3/26/2025,,North,Smartphone,6,44057.37,299413.77,Card,Delivered,,CHENNAI,600002
+145,3/27/2025,Kiran R,NORTH,Mouse,4,25512.85,115659.11,Cash,Delivereed,,Chen nai,
+5,3/28/2025,Rahul K,,Mouse,two,48682.67,92634.72,UPI,,,Chennai,600001
+33,3/29/2025,Priya K,,Chair,one0,49808.73,413065.93,Online,Canceled,,Bangalore,560001
+114,3/30/2025,Kiran P,South,Laptop,5,39641.91,161212.91,,Pending,,bengaluru,
+153,3/31/2025,Ravi S,South,Smartwatch,8,23143.78,152333.47,Cash,PENDING,,Bengaluru,560002
+121,04-01-2025,Kiran M,,Printer,9,21537.21,212618.97,Cahs,PENDING,,Banglore,
+195,04-02-2025,Amit P,East,Tablet,7,25640.33,205917.3,Online,Pending,,Bangalore,560001
+115,04-03-2025,Priya S,EAST,Monitor,3,10838.94,36243.41,Online,delivered,,Mumbai,400001
+11,04-04-2025,Pooja M,NORTH,Printer,4,49868.96,170618.21,Cash,,,mumbai,
+63,04-05-2025,Divya R,North,Smartwatch,7,17040.28,117120.54,Cahs,Canceled,,Mumbai City,400002
+149,04-06-2025,Rahul P,EAST,Headphones,6,39176.78,195230.06,Online,delivered,,Mum bai,
+154,04-07-2025,Priya T,NORTH,Keyboard,one0,28161.5,314487.11,Cahs,,,Mumbai,400001
+177,04-08-2025,Priya T,EAST,Tablet,one,18262.65,17083.23,,Delivereed,,Delhi,110001
+1,04-09-2025,Priya K,west,Headphones,4,7837.36,26364.82,Cash,delivered,,delhi,
+190,04-10-2025,Kiran K,,Tablet,8,49865.86,448475.71,,Canceled,,New Delhi,110002
+185,04-11-2025,Manish S,East,Laptop,3,42584.8,136855.05,Cash,Pending,,Delhi NCR,
+71,04-12-2025,Manish R,west,Chair,9,38957.43,345690.53,UPI,Canceled,,Delhi,110001
+164,4/13/2025,Pooja R,,Laptop,7,18850.67,143544.83,Online,Canceled,,Pune,411001
+65,4/14/2025,,North,Laptop,4,10768.67,34810.89,Card,Pending,,pune,
+45,4/15/2025,Rahul R,west,Laptop,two,30231.99,56731.83,Cahs,delivered,,Poona,411002
+138,4/16/2025,Amit K,west,Laptop,3,14390.25,47702.12,UPI,Delivered,,Pune City,
+41,4/17/2025,Kiran R,East,Tablet,7,2214.53,16968.57,Cahs,,,Pune,411001
+124,4/18/2025,Anita P  ,North,Laptop,6,12934.88,65996.57,Card,Delivered,,Kolkata,700001
+24,4/19/2025,Sneha K,West,Headphones,4,27278,93407.83,UPI,Delivereed,,kolkata,
+159,4/20/2025,Priya T,East,Printer,5,48417.13,261305.31,Card,delivered,,Calcutta,700002
+155,4/21/2025,Pooja P,West,Printer,one0,24305.82,209113.77,Cahs,Delivered,,Kolk ata,
+82,4/22/2025,Priya T  ,North,Tablet,3,40745.96,144197.95,Card,Delivered,,Kolkata,700001
+40,4/23/2025,Ravi S,West,Headphones,two,18330.25,37538.64,Online,PENDING,,Ahmedabad,380001
+178,4/24/2025,Divya P,East,Tablet,two,36086.21,84978.84,UPI,Pending,,Ahemdabad,
+48,4/25/2025,Priya P,west,Mouse,5,33677.75,156681.21,Online,Pending,,AHMEDABAD,380002
+95,4/26/2025,Ravi R,west,Mouse,3,46455.97,135918.06,Cash,Delivered,,Ahmedabad City,
+162,4/27/2025,Anita R,East,Smartphone,5,42376.99,178080.04,,delivered,,Ahmedabad,380001
+44,4/28/2025,Priya S,EAST,Mouse,7,34296.39,273076.47,Cash,Delivered,,Jaipur,302001
+146,4/29/2025,Ravi M,North,Keyboard,two,43243.39,89107.65,Cahs,PENDING,,jaipur,
+4,4/30/2025,Sneha S,East,Headphones,6,6008.3,34318.36,UPI,delivered,,Jaipur City,302002
+106,05-01-2025,Priya M,South,Smartphone,8,9151.87,67342.13,Cash,Canceled,,Jai pur,
+54,05-02-2025,Kiran P,,Laptop,9,13210.72,135462.87,Card,,,Jaipur,302001
+134,05-03-2025,Priya K,NORTH,Smartphone,6,40776.69,250176.81,Online,delivered,,Kochi,682001
+191,05-04-2025,Priya T,west,Smartwatch,3,35878.65,126034.14,UPI,delivered,,cochin,
+165,05-05-2025,Divya R,West,Smartwatch,8,45294.74,318007.66,Cahs,Delivereed,,Kochin,682002
+196,05-06-2025,Rahul R,East,Printer,4,17955.13,84486.9,Cash,Canceled,,Kochi City,
+50,05-07-2025,Anita M,EAST,Keyboard,8,22665.83,160561.21,,Pending,,Kochi,682001
+81,05-08-2025,Divya S  ,East,Laptop,5,47112.12,233462.15,Cahs,Delivereed,,Indore,452001
+35,05-09-2025,Pooja P,North,Mouse,5,46656.05,196290.07,UPI,Delivered,,indore,
+8,05-10-2025,Priya T,East,Mouse,4,9006.72,34289.74,Card,PENDING,,Indore City,452002
+111,05-11-2025,Divya S,West,Monitor,8,6226.01,47444.47,Online,Canceled,,Indo re,
+92,05-12-2025,Sneha M,EAST,Printer,two,43028.92,80199.15,UPI,PENDING,,Indore,452001
+84,5/13/2025,Pooja T,North,Chair,two,47431.92,83775.7,UPI,PENDING,,Bhopal,462001
+187,5/14/2025,Sneha S,,Smartphone,one0,7747.06,73347.61,,Canceled,,bhopal,
+192,5/15/2025,Anita K,West,Tablet,4,39728.28,128801.25,Online,Canceled,,Bhopal City,462002
+90,5/16/2025,Ravi K,West,Chair,one0,47588.53,570980.97,Online,Delivered,,Bho pal,
+9,5/17/2025,Sneha K,West,Laptop,6,20657.07,102435.37,,Canceled,,Bhopal,462001
+14,5/18/2025,Manish R,,Laptop,5,48622.52,268587.12,Cash,,,Nagpur,440001
+60,5/19/2025,Ravi S,west,Monitor,7,27372.81,209592.93,Card,Delivereed,,nagpur,
+182,5/20/2025,Amit S,South,Monitor,two,22099.75,52952.74,Online,Canceled,,Nagpur City,440002
+132,5/21/2025,Priya P,West,Monitor,8,44516.46,343854.19,Cahs,Delivereed,,Nag pur,
+18,5/22/2025,Divya T,East,Smartwatch,9,43749.22,381637.42,Online,,,Nagpur,440001
+167,5/23/2025,Divya S,South,Mouse,two,14968.09,33086.87,Cahs,delivered,,Coimbatore,641001
+73,5/24/2025,Divya S,East,Keyboard,4,18386.42,66436.83,Online,PENDING,,coimbatore,
+186,5/25/2025,Priya R,EAST,Printer,7,47523.89,270443.2,,Delivereed,,Kovai,641002
+135,5/26/2025,Sneha P,South,Monitor,6,43806.76,309219.29,,Delivered,,Coimba tore,
+176,5/27/2025,Manish M,North,Monitor,6,13428.86,64982,UPI,Pending,,Coimbatore,641001
+194,5/28/2025,Manish T,South,Tablet,6,32474.59,190948.6,UPI,Pending,,Vijayawada,520001
+64,5/29/2025,Manish S,South,Keyboard,one,37702.19,30947.25,Card,PENDING,,vijayawada,
+55,5/30/2025,Divya P,EAST,Keyboard,one0,40935.32,473543.11,Online,Delivereed,,Vijay wada,520002
+108,5/31/2025,Kiran R,East,Smartphone,one0,43671.14,457622.95,Cahs,delivered,,Bezawada,
+51,06-01-2025,Priya S,EAST,Smartphone,4,33966.99,120902.96,Card,Delivered,,Vijayawada,520001
+175,06-02-2025,Priya T,EAST,Smartphone,9,27660.02,277460,Online,Delivered,,Vizag,530001
+70,06-03-2025,Sneha K,NORTH,Keyboard,two,22242.65,42033.06,,Pending,,Visakhapatnam,
+170,06-04-2025,Sneha R,East,Laptop,5,45952.41,227230.53,,Delivereed,,VISAKHAPATNAM,530002
+59,06-05-2025,Ravi R,NORTH,Monitor,one0,47357.04,382556.22,Cahs,Delivereed,,Visakha patnam,
+49,06-06-2025,Anita M,NORTH,Tablet,one0,28886.16,278009.09,UPI,Canceled,,Vizag,530001
+89,06-07-2025,Manish S,,Keyboard,two,30303.8,70048.39,Online,Canceled,,Trichy,620001
+22,06-08-2025,Kiran P,,Headphones,8,40567.35,284349.2,,Delivereed,,Tiruchirapalli,
+58,06-09-2025,Kiran R,NORTH,Tablet,4,4147.21,15975.71,Cahs,Delivereed,,TRICHY,620002
+161,06-10-2025,Manish T,EAST,Laptop,6,16134.44,114277.11,Cahs,Pending,,Tri chy,
+31,06-11-2025,Pooja T,North,Chair,two,21542.02,44526.02,UPI,Canceled,,Trichy,620001
+130,06-12-2025,Divya P,,Smartphone,two,16783.48,28845.21,UPI,delivered,,Madurai,625001
+38,6/13/2025,Sneha R,west,Tablet,8,28032.34,217771.98,Cash,Delivered,,madura i,
+158,6/14/2025,Sneha K,EAST,Smartphone,9,34240.59,281557.94,Card,Canceled,,MADURAI,625002
+199,6/15/2025,Pooja S,West,Chair,7,31287.31,177862.12,UPI,PENDING,,Madurai City,
+2,6/16/2025,Manish K,North,Smartphone,4,12400.38,51625.63,Card,PENDING,,Madurai,625001
+53,6/17/2025,Manish M  ,NORTH,Headphones,3,33146.84,79772.97,Cahs,Pending,,Warangal,506001
+150,6/18/2025,Anita S,EAST,Tablet,4,6037.42,21792.36,Online,Pending,,warangal,
+131,6/19/2025,Pooja T,EAST,Monitor,one0,26997.29,264974.67,Cahs,Delivered,,Orugallu,506002
+152,6/20/2025,Pooja S,EAST,Tablet,8,4346.03,33964.51,UPI,delivered,,Wara ngal,
+104,6/21/2025,Rahul S,NORTH,Smartphone,6,42764.73,293469.59,UPI,PENDING,,Warangal,506001
+100,6/22/2025,Kiran M,,Printer,6,28043.95,171186.78,UPI,,,Guntur,522001
+117,6/23/2025,Kiran R,NORTH,Mouse,6,5424.84,31176.44,Online,Delivered,,guntur,
+88,6/24/2025,Ravi R  ,west,Chair,one0,46138.43,450154.84,,Canceled,,Gun tur,522002
+75,6/25/2025,Anita P,,Keyboard,8,39853.71,266931.01,Cahs,PENDING,,Guntur City,
+122,6/26/2025,Priya M,NORTH,Smartwatch,one,34823.75,30885.46,Card,,,Guntur,522001
+46,6/27/2025,Amit K,NORTH,Chair,4,13481.4,58429.15,Online,,,madura i,
+21,6/28/2025,Ravi R,South,Laptop,6,4472.01,24020.11,Card,delivered,,MADURAI,625002
+189,6/29/2025,Rahul P,,Headphones,one0,14993.27,174910.22,Card,Delivered,,Madurai City,
+72,6/30/2025,Anita K,west,Keyboard,4,37773.34,155314.89,UPI,Delivered,,Madurai,625001
+107,07-01-2025,Ravi S,EAST,Printer,7,8132.92,57640.16,,,,Warangal,506001
+15,07-02-2025,Rahul P,West,Tablet,6,38363.03,233803.86,Cash,delivered,,warangal,
+93,07-03-2025,Manish T,North,Keyboard,two,16411.34,30502.43,Online,,,Orugallu,506002
+180,07-04-2025,Ravi P,West,Smartwatch,6,43244.79,212536.45,UPI,Delivered,,Wara ngal,
+103,07-05-2025,Priya M,South,Mouse,8,1752.03,12021.2,Cash,Delivereed,,Warangal,506001
